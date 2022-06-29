@@ -1,11 +1,12 @@
-# fly.toml file generated for hello-vapor on 2022-06-28T16:44:59-07:00
+# fly.toml file generated for hello-vapor-routing on 2022-06-29T10:39:28-07:00
 
-app = "hello-vapor"
+app = "hello-vapor-routing"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
 [env]
+  ROUTING_MODE = "vapor-routing"
 
 [experimental]
   allowed_public_ports = []

@@ -64,6 +64,15 @@
       }
     },
     {
+      "identity" : "swift-case-paths",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-case-paths",
+      "state" : {
+        "revision" : "b4a872984463070c71e2e97e5c02c73a07d0fe36",
+        "version" : "0.9.0"
+      }
+    },
+    {
       "identity" : "swift-collections",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-collections.git",
@@ -154,6 +163,24 @@
       }
     },
     {
+      "identity" : "swift-parsing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-parsing",
+      "state" : {
+        "revision" : "bc92e84968990b41640214b636667f35b6e5d44c",
+        "version" : "0.10.0"
+      }
+    },
+    {
+      "identity" : "swift-url-routing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-url-routing",
+      "state" : {
+        "revision" : "5bf79bb370015e43842a61d558a9ee053171124e",
+        "version" : "0.3.0"
+      }
+    },
+    {
       "identity" : "vapor",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/vapor.git",
@@ -163,12 +190,30 @@
       }
     },
     {
+      "identity" : "vapor-routing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/vapor-routing",
+      "state" : {
+        "revision" : "f07b4d7618bf48b450ed11c9f85b74ba8b9bae6c",
+        "version" : "0.1.1"
+      }
+    },
+    {
       "identity" : "websocket-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/websocket-kit.git",
       "state" : {
         "revision" : "09212f4c2b9ebdef00f04b913b57f5d77bc4ea62",
         "version" : "2.4.1"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "f821dcbac7cb6913f8e0d1a80496d0ba0199fa81",
+        "version" : "0.3.0"
       }
     }
   ],
